@@ -4,7 +4,7 @@
 - 📫 Learn more about me on:
     - :office: [LinkedIn](https://www.linkedin.com/in/priyansh-tripathi-13a86652/)
     - :bulb: [Web App Profile](https://portfolio-pt-new.web.app)
-    - :email: [E-mail](priyansh.tripath97@gmail.com)
+    - :email: [E-mail](https://priyansh.tripath97@gmail.com)
     
     
     
